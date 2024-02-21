@@ -20,7 +20,7 @@ FreshStart is your go-to solution for giving your Mac a new lease on life. With 
 # Getting Started: 
 
 Ready for a fresh start? Simply click the **Erase** button above and rediscover the joy of a clean, efficient, and responsive Mac. Whether you are decluttering, troubleshooting or simply craving a fresh beginning, FreshStart is your trusted companion for a hassle-free macOS resinstallation. 
-
+***
 # Experience:
 
 Below are some screenshots of what to expect when using FreshStart
