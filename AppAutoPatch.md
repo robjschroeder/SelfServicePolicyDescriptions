@@ -1,3 +1,4 @@
+<!--application patch automate-->
 # **App Auto-Patch: Simplifying Your Mac Experience**
 
 ## **Introduction:**
