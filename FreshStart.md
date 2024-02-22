@@ -26,13 +26,13 @@ Ready for a fresh start? Simply click the **Erase** button above and rediscover 
 Below are some screenshots of what to expect when using FreshStart
 
 ## Provide Username and Password
-![Provide Username and Password](https://github.com/robjschroeder/SelfServicePolicyDescriptions/blob/10163663176c7001fb7be03cff734bf50d538f65/Images/FreshStart/ProvideUsernamePassword.png)
+![Provide Username and Password](https://github.com/robjschroeder/SelfServicePolicyDescriptions/blob/a019f799b8fa2300c3bc87f1a68add5bbde7a370/Images/FreshStart/ProvideUsernamePassword.jpg)
 
 ## Downloading macOS
-![Downloading macOS](https://github.com/robjschroeder/SelfServicePolicyDescriptions/blob/10163663176c7001fb7be03cff734bf50d538f65/Images/FreshStart/DownloadingMacOS.png)
+![Downloading macOS](https://github.com/robjschroeder/SelfServicePolicyDescriptions/blob/a019f799b8fa2300c3bc87f1a68add5bbde7a370/Images/FreshStart/DownloadingMacOS.jpg)
 
 ## Confirm Erasing macOS
-![Confirm Erase macOS](https://github.com/robjschroeder/SelfServicePolicyDescriptions/blob/10163663176c7001fb7be03cff734bf50d538f65/Images/FreshStart/EraseConfirm.png)
+![Confirm Erase macOS](https://github.com/robjschroeder/SelfServicePolicyDescriptions/blob/a019f799b8fa2300c3bc87f1a68add5bbde7a370/Images/FreshStart/EraseConfirm.jpg)
 
 ## Preparing to Erase
-![Prepare to Erase](https://github.com/robjschroeder/SelfServicePolicyDescriptions/blob/10163663176c7001fb7be03cff734bf50d538f65/Images/FreshStart/PrepareErase.png)
+![Prepare to Erase](https://github.com/robjschroeder/SelfServicePolicyDescriptions/blob/a019f799b8fa2300c3bc87f1a68add5bbde7a370/Images/FreshStart/PrepareErase.jpg)
