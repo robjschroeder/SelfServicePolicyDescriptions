@@ -16,6 +16,7 @@ The app takes care of identifying and applying the latest patches to your softwa
 ## **Key Features:**
 ### *Automatic Application Discovery:* 
 App Auto-Patch instantly identifies all the applications installed on your Mac and manages updates for you.
+![Application Discovery Process](https://raw.githubusercontent.com/robjschroeder/App-Auto-Patch/main/Images/AAP-Discovery.png)
 ### *Seamless Integration:* 
 Built on a robust platform, this app works quietly in the background, keeping your software updated without disrupting your workflow.
 ### *Enhanced Security:* 
