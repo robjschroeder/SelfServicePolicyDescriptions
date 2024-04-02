@@ -27,3 +27,6 @@ Below are some screenshots of what to expect when using UpdatePro
 
 ## Downloading macOS
 ![Downloading macOS](https://raw.githubusercontent.com/robjschroeder/SelfServicePolicyDescriptions/main/Images/UpdatePro/DownloadingMacOS.png)
+
+## Upgrading macOS
+![Upgrading macOS](https://raw.githubusercontent.com/robjschroeder/SelfServicePolicyDescriptions/main/Images/UpdatePro/UpgradingMacOS.png)
