@@ -16,5 +16,14 @@ Check out UpdatePro, your premiere solution for keeping your Mac at the forefron
 
 Take the first step towards a more secure, efficient, and up-to-date macOS experience. Use UpdatePro and effortlessly upgrade!
 
-https://raw.githubusercontent.com/robjschroeder/SelfServicePolicyDescriptions/main/Images/UpdatePro/ProvideUsernamePassword.png
-[https://raw.githubusercontent.com/robjschroeder/SelfServicePolicyDescriptions/main/Images/UpdatePro/ProvideUsernamePassword.png](https://raw.githubusercontent.com/robjschroeder/SelfServicePolicyDescriptions/main/Images/UpdatePro/DownloadingMacOS.png)
+***
+
+# Experience:
+
+Below are some screenshots of what to expect when using UpdatePro
+
+## Provide Username and Password
+![Provide Username and Password](https://raw.githubusercontent.com/robjschroeder/SelfServicePolicyDescriptions/main/Images/UpdatePro/ProvideUsernamePassword.png)
+
+## Downloading macOS
+![Downloading macOS](https://raw.githubusercontent.com/robjschroeder/SelfServicePolicyDescriptions/main/Images/UpdatePro/DownloadingMacOS.png)
