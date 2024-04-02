@@ -15,3 +15,6 @@ Check out UpdatePro, your premiere solution for keeping your Mac at the forefron
 **Comprehensive Compatibility Checks**: Automatically ensures that your Mac is ready for the new update, avoiding any compatibility surprises. 
 
 Take the first step towards a more secure, efficient, and up-to-date macOS experience. Use UpdatePro and effortlessly upgrade!
+
+https://raw.githubusercontent.com/robjschroeder/SelfServicePolicyDescriptions/main/Images/UpdatePro/ProvideUsernamePassword.png
+[https://raw.githubusercontent.com/robjschroeder/SelfServicePolicyDescriptions/main/Images/UpdatePro/ProvideUsernamePassword.png](https://raw.githubusercontent.com/robjschroeder/SelfServicePolicyDescriptions/main/Images/UpdatePro/DownloadingMacOS.png)
