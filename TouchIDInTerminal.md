@@ -21,3 +21,9 @@ Enhance your security and streamline your workflow by enabling Touch ID for sudo
 **Ease of Use:** Intuitive setup process.
 
 ## User Experience
+
+Complete your `sudo` command in the Terminal application
+![sudo Terminal Command](https://raw.githubusercontent.com/robjschroeder/SelfServicePolicyDescriptions/main/Images/TouchIDInTerminal/TouchID-Terminal.png)
+
+Use your TouchID to authenticate at the prompt
+![TouchID Prompt](https://raw.githubusercontent.com/robjschroeder/SelfServicePolicyDescriptions/main/Images/TouchIDInTerminal/TouchID-Prompt.png)
