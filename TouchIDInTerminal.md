@@ -1,3 +1,4 @@
+<!--touchid sudo biometric password-->
 # Use Touch ID in Terminal
 
 ## Requirements
