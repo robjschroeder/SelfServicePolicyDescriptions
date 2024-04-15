@@ -8,3 +8,15 @@ To enable Touch ID, use the following support article: [Use Touch ID on Mac](htt
 
 • macOS Sonoma
 
+## Description
+Enhance your security and streamline your workflow by enabling Touch ID for sudo commands directly within Terminal. This feature allows you to use your fingerprint as an authentication method for executing sudo commands, offering a faster and more secure alternative to typing your password.
+
+## Benefits
+
+**Increased Security:** Leverage biometric authentication to protect sensitive operations.
+
+**Efficiency:** Access sudo privileges quickly without needing to enter your password.
+
+**Ease of Use:** Intuitive setup process.
+
+## User Experience
