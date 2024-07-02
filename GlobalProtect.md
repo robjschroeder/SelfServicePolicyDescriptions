@@ -1,8 +1,8 @@
-<!--application patch automate-->
-# **App Auto-Patch: Simplifying Your Mac Experience**
+<!--vpn palo alto global protect cisco anyconnect-->
+# **GlobalProtect VPN**
 
-## **Introduction:**
-App Auto-Patch is a groundbreaking tool designed to make your life easier by automating the update and patch process for the applications on your Mac. This user-friendly app combines smart technology and intuitive prompts to keep your software up-to-date effortlessly.
+## **Description:**
+GlobalProtect is a comprehensive security platform that ensures your Mac remains connected securely to our organization's network, no matter where you are. With GlobalProtect, you can access your corporate resources with confidence, knowing your data and communications are safeguarded by industry-leading security protocols.
 
 ## **Why You'll Love App Auto-Patch:**
 
