@@ -1,3 +1,4 @@
+<!--device compliance check entra azure registration conditional access-->
 # Compliance Check Utility
 
 *Ensure your computer meets the organization's security standards and avoid disruptions to your access.*
