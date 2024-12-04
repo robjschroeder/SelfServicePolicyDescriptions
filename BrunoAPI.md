@@ -1,3 +1,4 @@
+<!--bruno api developer http-->
 # Bruno API
 
 Bruno API Client is a feature-rich and intuitive tool designed for developers to test, debug, and document APIs. With a clean interface and powerful functionality, Bruno makes API management and testing seamless and efficient for all your development needs.
