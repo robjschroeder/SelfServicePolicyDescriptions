@@ -1,3 +1,4 @@
+<!--azure blob storage explorer cloud-->
 # Azure Storage Exporer
 
 Azure Storage Explorer is a cross-platform tool that allows you to easily manage and interact with your Azure storage resources. This app provides a simple, user-friendly interface to access, manage, and transfer data to and from your Azure storage accounts.
